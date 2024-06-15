@@ -1,0 +1,8 @@
+.menuEl{
+  display: flex;
+  gap: 20px;
+}
+.menuEl div{
+  display: flex;
+  gap: 10px;
+}
